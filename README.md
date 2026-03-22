@@ -8,3 +8,5 @@ To replicate the flight simulator, utilize the folder titled 'To-Run.'
 5. Run the FlightGear start-up code (altering the FlightGear location).
 6. Run the MATLAB file after setting desired simulation duration (MATLAB line 94) and microburst intensity (Microburst block in Simulink).
 7. Fly (and hopefully land) the aircraft while encountering a microburst.
+
+Access the full-scale autopilot landing simulation here: https://www.youtube.com/watch?v=ACZxgx7IUl8.

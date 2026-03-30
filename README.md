@@ -15,4 +15,4 @@ If the user does not possess a MATLAB license, a simple version of the microburs
 1. Save the Python file 'SimpleFGMicroburst.py' to local drive.
 2. Run the FlightGear start-up code 'SimpleRunCode.'
 3. Once FlightGear is running, open the file 'SimpleFGMicroburst.py' in a new terminal window.
-4. Fly the aircraft with a mouse or any controller compatbilbe with FlightGear.
+4. Fly the aircraft with a mouse or any controller compatible with FlightGear.

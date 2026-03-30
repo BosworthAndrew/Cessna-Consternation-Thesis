@@ -1,0 +1,11 @@
+~/FlightGear.app/Contents/MacOS/fgfs \
+--airport=39N \
+--runway=10 \
+--aircraft=c172p \
+--disable-real-weather-fetch \
+--telnet=5501 \
+--lat=40.3990 \
+--lon=-74.7241 \
+--altitude=1170 \
+--heading=100 \
+--timeofday=noon
